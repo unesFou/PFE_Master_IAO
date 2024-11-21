@@ -9,5 +9,5 @@ import java.util.Optional;
 @Repository
 public interface VehiculeRepository extends JpaRepository<Vehicule, Long> {
     // Vous pouvez ajouter des requêtes personnalisées si nécessaire
-    Optional<Vehicule> findByImmatriculation(String immatriculation);
+    //Optional<Vehicule> findByImmatriculation(String immatriculation);
 }

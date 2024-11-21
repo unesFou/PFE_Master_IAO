@@ -1,0 +1,142 @@
+[
+  {
+    "marque": "Toyota",
+    "modele": "Corolla",
+    "immatriculation": "AA-123-AA",
+    "anneeFabrication": 2019,
+    "enService": true
+  },
+  {
+    "marque": "Honda",
+    "modele": "Civic",
+    "immatriculation": "BB-456-BB",
+    "anneeFabrication": 2018,
+    "enService": true
+  },
+  {
+    "marque": "Ford",
+    "modele": "Focus",
+    "immatriculation": "CC-789-CC",
+    "anneeFabrication": 2020,
+    "enService": false
+  },
+  {
+    "marque": "Chevrolet",
+    "modele": "Malibu",
+    "immatriculation": "DD-321-DD",
+    "anneeFabrication": 2021,
+    "enService": true
+  },
+  {
+    "marque": "Nissan",
+    "modele": "Altima",
+    "immatriculation": "EE-654-EE",
+    "anneeFabrication": 2017,
+    "enService": false
+  },
+  {
+    "marque": "Volkswagen",
+    "modele": "Golf",
+    "immatriculation": "FF-987-FF",
+    "anneeFabrication": 2016,
+    "enService": true
+  },
+  {
+    "marque": "BMW",
+    "modele": "Series 3",
+    "immatriculation": "GG-123-GG",
+    "anneeFabrication": 2015,
+    "enService": false
+  },
+  {
+    "marque": "Mercedes",
+    "modele": "C-Class",
+    "immatriculation": "HH-456-HH",
+    "anneeFabrication": 2022,
+    "enService": true
+  },
+  {
+    "marque": "Audi",
+    "modele": "A4",
+    "immatriculation": "II-789-II",
+    "anneeFabrication": 2018,
+    "enService": true
+  },
+  {
+    "marque": "Hyundai",
+    "modele": "Elantra",
+    "immatriculation": "JJ-321-JJ",
+    "anneeFabrication": 2021,
+    "enService": false
+  },
+  {
+    "marque": "Kia",
+    "modele": "Optima",
+    "immatriculation": "KK-654-KK",
+    "anneeFabrication": 2019,
+    "enService": true
+  },
+  {
+    "marque": "Mazda",
+    "modele": "Mazda3",
+    "immatriculation": "LL-987-LL",
+    "anneeFabrication": 2020,
+    "enService": true
+  },
+  {
+    "marque": "Subaru",
+    "modele": "Impreza",
+    "immatriculation": "MM-123-MM",
+    "anneeFabrication": 2017,
+    "enService": false
+  },
+  {
+    "marque": "Tesla",
+    "modele": "Model 3",
+    "immatriculation": "NN-456-NN",
+    "anneeFabrication": 2021,
+    "enService": true
+  },
+  {
+    "marque": "Volvo",
+    "modele": "S60",
+    "immatriculation": "OO-789-OO",
+    "anneeFabrication": 2016,
+    "enService": false
+  },
+  {
+    "marque": "Peugeot",
+    "modele": "208",
+    "immatriculation": "PP-321-PP",
+    "anneeFabrication": 2018,
+    "enService": true
+  },
+  {
+    "marque": "Renault",
+    "modele": "Clio",
+    "immatriculation": "QQ-654-QQ",
+    "anneeFabrication": 2019,
+    "enService": true
+  },
+  {
+    "marque": "Fiat",
+    "modele": "500",
+    "immatriculation": "RR-987-RR",
+    "anneeFabrication": 2020,
+    "enService": false
+  },
+  {
+    "marque": "Chevrolet",
+    "modele": "Camaro",
+    "immatriculation": "SS-123-SS",
+    "anneeFabrication": 2022,
+    "enService": true
+  },
+  {
+    "marque": "Jeep",
+    "modele": "Cherokee",
+    "immatriculation": "TT-456-TT",
+    "anneeFabrication": 2018,
+    "enService": true
+  }
+]
